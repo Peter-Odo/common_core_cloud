@@ -1,0 +1,5 @@
+pipeline {
+    stages: {
+        'npm install'
+    }
+}

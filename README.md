@@ -77,3 +77,9 @@ git add .                   # Stage all changes
 ```
 git commit -m 'Describe your changes'
 ```
+
+- Push Changes
+
+```
+git push origin <branch_name>
+```

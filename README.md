@@ -83,3 +83,18 @@ git commit -m 'Describe your changes'
 ```
 git push origin <branch_name>
 ```
+
+### Collaborating with branches
+
+- Create a branch
+
+```
+git branch <branch name>        # Creates a branch
+git checkout -b <branch_name>   # Creates a branch and switches to that branch
+```
+
+- Switch to the branch
+
+```
+git checkout <branch_name>
+```
